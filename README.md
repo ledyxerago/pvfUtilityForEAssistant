@@ -10,7 +10,16 @@ https://gitee.com/icshare/pvfUtilityWebApi
 
 调用方式在程序集1的临时子程序下，并包含了调用模版
 
-各个子程序的返回值都是文本型的json代码，自选使用zyjson(推荐) 或者 精易模块的 类_json 进行json解析操作
+各个子程序的返回值都是文本型的json代码，
+自选使用
+
+zyjson(推荐) 
+
+精易模块的 类_json 
+
+进行json解析操作
+
+
 多线程开发推荐使用zyjson
 
 目前未实现的api：
